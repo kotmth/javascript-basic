@@ -16,7 +16,6 @@ JavaScript Basics: Starter Project
     <a href="https://code.visualstudio.com/download" target="_blank">Download</a>
 
 </div>
---
 
 <div align="left">
     <img width="20" valign="bottom" src="https://ultimatecourses.com/wp-content/themes/storefront-child/assets/images/icon/school/tools/chrome.svg">
@@ -24,14 +23,13 @@ JavaScript Basics: Starter Project
     <a href="https://www.google.co.uk/chrome/" target="_blank">Download</a>
 
 </div>
---
+
 <div align="left">
     <img width="20" valign="bottom" src="https://ultimatecourses.com/wp-content/themes/storefront-child/assets/images/icon/school/tools/nodejs.svg">
         Node.js
     <a href="https://nodejs.org/en/download/" target="_blank">Download</a>
 
 </div>
---
 
 ### Code 
 
