@@ -6,10 +6,6 @@ JavaScript Basics: Starter Project
 
 ---
 
-<div align="center">
-<a href="https://ultimatecourses.com/courses/javascript" target="_blank"><img width="100%" src="https://ultimatecourses.com/assets/img/banners/ultimate-javascript-leader.svg"></a>
-</div>
 
 ---
 
-Members, please refer to the [course setup](https://ultimatecourses.com/course/javascript-basics) instructions to get started!
