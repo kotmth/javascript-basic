@@ -14,15 +14,15 @@ JavaScript Basics: Starter Project
     <img width="20" valign="bottom" src="https://ultimatecourses.com/wp-content/themes/storefront-child/assets/images/icon/school/tools/vscode.svg">
         VsCode
     <a href="https://code.visualstudio.com/download" target="_blank">Download</a>
-
 </div>
+--
 
 <div align="left">
     <img width="20" valign="bottom" src="https://ultimatecourses.com/wp-content/themes/storefront-child/assets/images/icon/school/tools/chrome.svg">
         Chome
     <a href="https://www.google.co.uk/chrome/" target="_blank">Download</a>
-
 </div>
+--
 
 <div align="left">
     <img width="20" valign="bottom" src="https://ultimatecourses.com/wp-content/themes/storefront-child/assets/images/icon/school/tools/nodejs.svg">
